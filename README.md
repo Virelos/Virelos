@@ -1,4 +1,4 @@
-## Привет, меня зовут Иван. На данный момент работаю в комании Мегафон.
+## Привет, меня зовут Иван.
 <a href="https://t.me/virelos">
   <img align="left" alt="Telegram" width="150px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
