@@ -18,9 +18,5 @@
 
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
-* [x] Изучить Linux и сети
-* [x] Создать свой первый проект на Github
-* [x] Изучить Git
-* [x] Изучить Docker, Kubernetes, основы CI/CD
-* [ ] DevOps      
+* [x] DevOps      
 <!-- TODO-IST:END -->
